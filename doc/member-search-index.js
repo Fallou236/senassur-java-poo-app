@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"AssuranceApp","c":"SenassurApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"AssuranceApp","c":"SenassurApp","l":"SenassurApp()","u":"%3Cinit%3E()"}];updateSearchResults();
